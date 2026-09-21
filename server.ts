@@ -3,7 +3,7 @@ import express from 'express';
 import path from 'path';
 import fs from 'fs';
 import { getAddress, recoverMessageAddress } from 'viem';
-import { insertWallet, getWhitelistedWallets, checkWallet, EVM_REGEX } from './lib/db';
+import { insertWallet, getWhitelistedWallets, checkWallet, EVM_REGEX } from './lib/db.js';
 
 const app = express();
 const PORT = Number(process.env.PORT || 3000);
