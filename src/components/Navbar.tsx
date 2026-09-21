@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useWhitelist } from './whitelist-context';
 import { useWeb3 } from '../lib/web3';
-import { IS_CHECKER_PAUSED } from '../lib/config';
+import { IS_CHECKER_PAUSED, SHOW_WL_CHECKER_NAV } from '../lib/config';
 import RareMark from './RareMark';
 import { Sparkles, Copy, Check, ExternalLink } from 'lucide-react';
 
@@ -55,7 +55,8 @@ export default function Navbar() {
             [ mint ]
           </a>
 
-          {/* WL Checker Trigger */}
+          {/* WL Checker Trigger — restore by setting SHOW_WL_CHECKER_NAV true */}
+          {SHOW_WL_CHECKER_NAV && (
           <button
             type="button"
             onClick={openChecker}
@@ -67,6 +68,7 @@ export default function Navbar() {
           >
             {IS_CHECKER_PAUSED ? '[ wl checker · paused ]' : '[ wl checker ]'}
           </button>
+          )}
 
           {/* Join Whitelist Trigger */}
           <button

@@ -2,6 +2,8 @@
 export const IS_UNDER_MAINTENANCE = false;
 export const IS_CHECKER_PAUSED = false;
 export const SHOW_UNDER_REVIEW_ON_SUBMIT = false;
+// Temporarily hide the navbar "[ wl checker ]" button. Set true to restore.
+export const SHOW_WL_CHECKER_NAV = false;
 
 // ==============================================================================
 // OPENSEA SCHEDULED DROP CONFIGURATION (ROBINHOOD CHAIN)
