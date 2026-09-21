@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "0001",
+    "name": "Rare Person #0001 — Black Cap Hacker",
+    "short": "Black Cap Hacker",
+    "image": "/assets/nfts/1.svg",
+    "rarity": "Rare",
+    "traits": {
+      "Headwear": "Black Snapback Cap",
+      "Eyes": "Focused Pixel",
+      "Clothing": "Dark Tech Hoodie",
+      "Accessory": "Black Mask & Gold Earring",
+      "Expression": "Stealth"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0002",
+    "name": "Rare Person #0002 — Green Spikes",
+    "short": "Green Spikes",
+    "image": "/assets/nfts/2.svg",
+    "rarity": "Common",
+    "traits": {
+      "Headwear": "Spiky Green Hair",
+      "Eyes": "Pixel Brown",
+      "Clothing": "Dark Green Hoodie",
+      "Accessory": "Yellow Sleeve Badge",
+      "Expression": "Determined"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0003",
+    "name": "Rare Person #0003 — White Bucket Hat",
+    "short": "White Bucket Hat",
+    "image": "/assets/nfts/3.svg",
+    "rarity": "Legendary",
+    "traits": {
+      "Headwear": "White Logo Bucket Hat",
+      "Eyes": "Purple Tinted Glasses",
+      "Clothing": "Deep Purple Hoodie",
+      "Accessory": "Black Face Mask",
+      "Expression": "Mysterious"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0004",
+    "name": "Rare Person #0004 — Red Void Mask",
+    "short": "Red Void Mask",
+    "image": "/assets/nfts/4.svg",
+    "rarity": "Epic",
+    "traits": {
+      "Headwear": "Crimson Red Hood",
+      "Eyes": "White Face Plate",
+      "Clothing": "Red Tactical Hoodie",
+      "Accessory": "Dark Oval Mask Slit",
+      "Expression": "Hollow"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0005",
+    "name": "Rare Person #0005 — Blue Headphones",
+    "short": "Blue Headphones",
+    "image": "/assets/nfts/5.svg",
+    "rarity": "Rare",
+    "traits": {
+      "Headwear": "Spiky Blue Hair",
+      "Eyes": "Dark Eyes",
+      "Clothing": "Dark Purple Hoodie",
+      "Accessory": "Cyan Over-Ear Headphones",
+      "Expression": "Listening"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0006",
+    "name": "Rare Person #0006 — Black Spikes",
+    "short": "Black Spikes",
+    "image": "/assets/nfts/6.svg",
+    "rarity": "Common",
+    "traits": {
+      "Headwear": "Spiky Black Hair",
+      "Eyes": "Dark Eyes",
+      "Clothing": "Dark Green Hoodie",
+      "Accessory": "Green Drawstrings",
+      "Expression": "Calm"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0007",
+    "name": "Rare Person #0007 — Cyber Horns",
+    "short": "Cyber Horns",
+    "image": "/assets/nfts/7.svg",
+    "rarity": "Mythic",
+    "traits": {
+      "Headwear": "Black Horned Helmet",
+      "Eyes": "Glowing Green XX Visor",
+      "Clothing": "Black Tech Hoodie",
+      "Accessory": "Yellow Sleeve Badge",
+      "Expression": "Cybernetic"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0008",
+    "name": "Rare Person #0008 — Stealth Hacker",
+    "short": "Stealth Hacker",
+    "image": "/assets/nfts/1.svg",
+    "rarity": "Rare",
+    "traits": {
+      "Headwear": "Black Snapback Cap",
+      "Eyes": "Focused Pixel",
+      "Clothing": "Dark Tech Hoodie",
+      "Accessory": "Gold Earring",
+      "Expression": "Infiltrator"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0009",
+    "name": "Rare Person #0009 — Emerald Spikes",
+    "short": "Emerald Spikes",
+    "image": "/assets/nfts/2.svg",
+    "rarity": "Common",
+    "traits": {
+      "Headwear": "Spiky Green Hair",
+      "Eyes": "Pixel Brown",
+      "Clothing": "Dark Green Hoodie",
+      "Accessory": "Yellow Sleeve Badge",
+      "Expression": "Alert"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0010",
+    "name": "Rare Person #0010 — Purple Bucket Shade",
+    "short": "Purple Bucket Shade",
+    "image": "/assets/nfts/3.svg",
+    "rarity": "Legendary",
+    "traits": {
+      "Headwear": "White Bucket Hat",
+      "Eyes": "Purple Tinted Glasses",
+      "Clothing": "Purple Hoodie",
+      "Accessory": "Black Mask",
+      "Expression": "Silent"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0011",
+    "name": "Rare Person #0011 — Crimson Void",
+    "short": "Crimson Void",
+    "image": "/assets/nfts/4.svg",
+    "rarity": "Epic",
+    "traits": {
+      "Headwear": "Red Hood",
+      "Eyes": "Blank White Mask",
+      "Clothing": "Red Tactical Hoodie",
+      "Accessory": "Void Slit",
+      "Expression": "Mysterious"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0012",
+    "name": "Rare Person #0012 — Audio Beats",
+    "short": "Audio Beats",
+    "image": "/assets/nfts/5.svg",
+    "rarity": "Rare",
+    "traits": {
+      "Headwear": "Spiky Blue Hair",
+      "Eyes": "Dark Eyes",
+      "Clothing": "Deep Purple Hoodie",
+      "Accessory": "Blue Headphones",
+      "Expression": "Chill"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0013",
+    "name": "Rare Person #0013 — Dark Spikes",
+    "short": "Dark Spikes",
+    "image": "/assets/nfts/6.svg",
+    "rarity": "Common",
+    "traits": {
+      "Headwear": "Spiky Black Hair",
+      "Eyes": "Dark Eyes",
+      "Clothing": "Dark Green Hoodie",
+      "Accessory": "Green Drawstrings",
+      "Expression": "Focused"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0014",
+    "name": "Rare Person #0014 — XX Cyber Horns",
+    "short": "XX Cyber Horns",
+    "image": "/assets/nfts/7.svg",
+    "rarity": "Mythic",
+    "traits": {
+      "Headwear": "Cyber Horns Helmet",
+      "Eyes": "Green XX Eyes",
+      "Clothing": "Black Hoodie",
+      "Accessory": "Yellow Sleeve Badge",
+      "Expression": "System Root"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0015",
+    "name": "Rare Person #0015 — Neon Ronin",
+    "short": "Neon Ronin",
+    "image": "/assets/nfts/15.svg",
+    "rarity": "Mythic",
+    "traits": {
+      "Headwear": "White Logo Bucket Hat",
+      "Eyes": "Purple Tinted Glasses",
+      "Clothing": "Varsity Jacket",
+      "Accessory": "Cyber Horns",
+      "Expression": "Hyper"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0016",
+    "name": "Rare Person #0016 — Glitch Phantom",
+    "short": "Glitch Phantom",
+    "image": "/assets/nfts/16.svg",
+    "rarity": "Common",
+    "traits": {
+      "Headwear": "Crimson Red Hood",
+      "Eyes": "Glowing Green XX Visor",
+      "Clothing": "Dark Tech Hoodie",
+      "Accessory": "Black Mask & Gold Earring",
+      "Expression": "Hollow"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0017",
+    "name": "Rare Person #0017 — Arc Overlord",
+    "short": "Arc Overlord",
+    "image": "/assets/nfts/1.png",
+    "rarity": "Common",
+    "traits": {
+      "Headwear": "Spiky Blue Hair",
+      "Eyes": "Golden Pupils",
+      "Clothing": "Deep Purple Hoodie",
+      "Accessory": "Cyan Over-Ear Headphones",
+      "Expression": "Focused"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0018",
+    "name": "Rare Person #0018 — Circuit Breaker",
+    "short": "Circuit Breaker",
+    "image": "/assets/nfts/2.png",
+    "rarity": "Rare",
+    "traits": {
+      "Headwear": "Spiky Black Hair",
+      "Eyes": "Pixel Brown",
+      "Clothing": "Black Tech Hoodie",
+      "Accessory": "Silver Chain",
+      "Expression": "Determined"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0019",
+    "name": "Rare Person #0019 — Vapor Runner",
+    "short": "Vapor Runner",
+    "image": "/assets/nfts/3.png",
+    "rarity": "Common",
+    "traits": {
+      "Headwear": "Cyber Horns Helmet",
+      "Eyes": "Dark Eyes",
+      "Clothing": "Cyber Armor Vest",
+      "Accessory": "Black Face Mask",
+      "Expression": "Cybernetic"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0020",
+    "name": "Rare Person #0020 — Obsidian Guard",
+    "short": "Obsidian Guard",
+    "image": "/assets/nfts/6.png",
+    "rarity": "Epic",
+    "traits": {
+      "Headwear": "Neon Headband",
+      "Eyes": "Cyan HUD",
+      "Clothing": "Varsity Jacket",
+      "Accessory": "Cyber Horns",
+      "Expression": "Stoic"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0021",
+    "name": "Rare Person #0021 — Solar Flare",
+    "short": "Solar Flare",
+    "image": "/assets/nfts/7.png",
+    "rarity": "Common",
+    "traits": {
+      "Headwear": "Gold Crown Band",
+      "Eyes": "Focused Pixel",
+      "Clothing": "Dark Tech Hoodie",
+      "Accessory": "Black Mask & Gold Earring",
+      "Expression": "Listening"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0022",
+    "name": "Rare Person #0022 — Zero Day",
+    "short": "Zero Day",
+    "image": "/assets/nfts/8.png",
+    "rarity": "Rare",
+    "traits": {
+      "Headwear": "Tactical Balaclava",
+      "Eyes": "White Face Plate",
+      "Clothing": "Deep Purple Hoodie",
+      "Accessory": "Cyan Over-Ear Headphones",
+      "Expression": "Unfazed"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0023",
+    "name": "Rare Person #0023 — Midnight Shaman",
+    "short": "Midnight Shaman",
+    "image": "/assets/nfts/86.png",
+    "rarity": "Mythic",
+    "traits": {
+      "Headwear": "Bandana",
+      "Eyes": "Red Laser Scanner",
+      "Clothing": "Black Tech Hoodie",
+      "Accessory": "Silver Chain",
+      "Expression": "Mysterious"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0024",
+    "name": "Rare Person #0024 — Prism Rebel",
+    "short": "Prism Rebel",
+    "image": "/assets/nfts/87.png",
+    "rarity": "Legendary",
+    "traits": {
+      "Headwear": "Hologram Visor",
+      "Eyes": "Mono Lens",
+      "Clothing": "Cyber Armor Vest",
+      "Accessory": "Black Face Mask",
+      "Expression": "Smirking"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0025",
+    "name": "Rare Person #0025 — Pixel Samurai",
+    "short": "Pixel Samurai",
+    "image": "/assets/nfts/88.png",
+    "rarity": "Common",
+    "traits": {
+      "Headwear": "Black Snapback Cap",
+      "Eyes": "Purple Tinted Glasses",
+      "Clothing": "Varsity Jacket",
+      "Accessory": "Cyber Horns",
+      "Expression": "Stealth"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0026",
+    "name": "Rare Person #0026 — Chrono Thief",
+    "short": "Chrono Thief",
+    "image": "/assets/nfts/89.png",
+    "rarity": "Epic",
+    "traits": {
+      "Headwear": "Spiky Green Hair",
+      "Eyes": "Glowing Green XX Visor",
+      "Clothing": "Dark Tech Hoodie",
+      "Accessory": "Black Mask & Gold Earring",
+      "Expression": "Calm"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0027",
+    "name": "Rare Person #0027 — Binary Monk",
+    "short": "Binary Monk",
+    "image": "/assets/nfts/90.png",
+    "rarity": "Rare",
+    "traits": {
+      "Headwear": "White Logo Bucket Hat",
+      "Eyes": "Golden Pupils",
+      "Clothing": "Deep Purple Hoodie",
+      "Accessory": "Cyan Over-Ear Headphones",
+      "Expression": "Hyper"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0028",
+    "name": "Rare Person #0028 — Hyper Stalker",
+    "short": "Hyper Stalker",
+    "image": "/assets/nfts/91.png",
+    "rarity": "Common",
+    "traits": {
+      "Headwear": "Crimson Red Hood",
+      "Eyes": "Pixel Brown",
+      "Clothing": "Black Tech Hoodie",
+      "Accessory": "Silver Chain",
+      "Expression": "Hollow"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0029",
+    "name": "Rare Person #0029 — Cobalt Sniper",
+    "short": "Cobalt Sniper",
+    "image": "/assets/nfts/92.png",
+    "rarity": "Legendary",
+    "traits": {
+      "Headwear": "Spiky Blue Hair",
+      "Eyes": "Dark Eyes",
+      "Clothing": "Cyber Armor Vest",
+      "Accessory": "Black Face Mask",
+      "Expression": "Focused"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0030",
+    "name": "Rare Person #0030 — Aether Nomad",
+    "short": "Aether Nomad",
+    "image": "/assets/nfts/93.png",
+    "rarity": "Mythic",
+    "traits": {
+      "Headwear": "Spiky Black Hair",
+      "Eyes": "Cyan HUD",
+      "Clothing": "Varsity Jacket",
+      "Accessory": "Cyber Horns",
+      "Expression": "Determined"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0031",
+    "name": "Rare Person #0031 — Matrix Walker",
+    "short": "Matrix Walker",
+    "image": "/assets/nfts/94.png",
+    "rarity": "Common",
+    "traits": {
+      "Headwear": "Cyber Horns Helmet",
+      "Eyes": "Focused Pixel",
+      "Clothing": "Dark Tech Hoodie",
+      "Accessory": "Black Mask & Gold Earring",
+      "Expression": "Cybernetic"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0032",
+    "name": "Rare Person #0032 — Quantum Drifter",
+    "short": "Quantum Drifter",
+    "image": "/assets/nfts/95.png",
+    "rarity": "Common",
+    "traits": {
+      "Headwear": "Neon Headband",
+      "Eyes": "White Face Plate",
+      "Clothing": "Deep Purple Hoodie",
+      "Accessory": "Cyan Over-Ear Headphones",
+      "Expression": "Stoic"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0033",
+    "name": "Rare Person #0033 — Shadow Protocol",
+    "short": "Shadow Protocol",
+    "image": "/assets/nfts/1.svg",
+    "rarity": "Rare",
+    "traits": {
+      "Headwear": "Gold Crown Band",
+      "Eyes": "Red Laser Scanner",
+      "Clothing": "Black Tech Hoodie",
+      "Accessory": "Silver Chain",
+      "Expression": "Listening"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0034",
+    "name": "Rare Person #0034 — Ghost Shell",
+    "short": "Ghost Shell",
+    "image": "/assets/nfts/2.svg",
+    "rarity": "Common",
+    "traits": {
+      "Headwear": "Tactical Balaclava",
+      "Eyes": "Mono Lens",
+      "Clothing": "Cyber Armor Vest",
+      "Accessory": "Black Face Mask",
+      "Expression": "Unfazed"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0035",
+    "name": "Rare Person #0035 — Volt Hunter",
+    "short": "Volt Hunter",
+    "image": "/assets/nfts/3.svg",
+    "rarity": "Epic",
+    "traits": {
+      "Headwear": "Bandana",
+      "Eyes": "Purple Tinted Glasses",
+      "Clothing": "Varsity Jacket",
+      "Accessory": "Cyber Horns",
+      "Expression": "Mysterious"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0036",
+    "name": "Rare Person #0036 — Cyber Punker",
+    "short": "Cyber Punker",
+    "image": "/assets/nfts/4.svg",
+    "rarity": "Common",
+    "traits": {
+      "Headwear": "Hologram Visor",
+      "Eyes": "Glowing Green XX Visor",
+      "Clothing": "Dark Tech Hoodie",
+      "Accessory": "Black Mask & Gold Earring",
+      "Expression": "Smirking"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0037",
+    "name": "Rare Person #0037 — Iron Mask",
+    "short": "Iron Mask",
+    "image": "/assets/nfts/5.svg",
+    "rarity": "Rare",
+    "traits": {
+      "Headwear": "Black Snapback Cap",
+      "Eyes": "Golden Pupils",
+      "Clothing": "Deep Purple Hoodie",
+      "Accessory": "Cyan Over-Ear Headphones",
+      "Expression": "Stealth"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0038",
+    "name": "Rare Person #0038 — Static Spark",
+    "short": "Static Spark",
+    "image": "/assets/nfts/6.svg",
+    "rarity": "Mythic",
+    "traits": {
+      "Headwear": "Spiky Green Hair",
+      "Eyes": "Pixel Brown",
+      "Clothing": "Black Tech Hoodie",
+      "Accessory": "Silver Chain",
+      "Expression": "Calm"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0039",
+    "name": "Rare Person #0039 — Gold Earring Boss",
+    "short": "Gold Earring Boss",
+    "image": "/assets/nfts/7.svg",
+    "rarity": "Legendary",
+    "traits": {
+      "Headwear": "White Logo Bucket Hat",
+      "Eyes": "Dark Eyes",
+      "Clothing": "Cyber Armor Vest",
+      "Accessory": "Black Face Mask",
+      "Expression": "Hyper"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0040",
+    "name": "Rare Person #0040 — Deep Web Wanderer",
+    "short": "Deep Web Wanderer",
+    "image": "/assets/nfts/8.svg",
+    "rarity": "Common",
+    "traits": {
+      "Headwear": "Crimson Red Hood",
+      "Eyes": "Cyan HUD",
+      "Clothing": "Varsity Jacket",
+      "Accessory": "Cyber Horns",
+      "Expression": "Hollow"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0041",
+    "name": "Rare Person #0041 — Arc Valkyrie",
+    "short": "Arc Valkyrie",
+    "image": "/assets/nfts/9.svg",
+    "rarity": "Epic",
+    "traits": {
+      "Headwear": "Spiky Blue Hair",
+      "Eyes": "Focused Pixel",
+      "Clothing": "Dark Tech Hoodie",
+      "Accessory": "Black Mask & Gold Earring",
+      "Expression": "Focused"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0042",
+    "name": "Rare Person #0042 — Subzero Unit",
+    "short": "Subzero Unit",
+    "image": "/assets/nfts/10.svg",
+    "rarity": "Rare",
+    "traits": {
+      "Headwear": "Spiky Black Hair",
+      "Eyes": "White Face Plate",
+      "Clothing": "Deep Purple Hoodie",
+      "Accessory": "Cyan Over-Ear Headphones",
+      "Expression": "Determined"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0043",
+    "name": "Rare Person #0043 — Venom Hood",
+    "short": "Venom Hood",
+    "image": "/assets/nfts/11.svg",
+    "rarity": "Common",
+    "traits": {
+      "Headwear": "Cyber Horns Helmet",
+      "Eyes": "Red Laser Scanner",
+      "Clothing": "Black Tech Hoodie",
+      "Accessory": "Silver Chain",
+      "Expression": "Cybernetic"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0044",
+    "name": "Rare Person #0044 — Onyx Enforcer",
+    "short": "Onyx Enforcer",
+    "image": "/assets/nfts/12.svg",
+    "rarity": "Legendary",
+    "traits": {
+      "Headwear": "Neon Headband",
+      "Eyes": "Mono Lens",
+      "Clothing": "Cyber Armor Vest",
+      "Accessory": "Black Face Mask",
+      "Expression": "Stoic"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0045",
+    "name": "Rare Person #0045 — Solar Priest",
+    "short": "Solar Priest",
+    "image": "/assets/nfts/13.svg",
+    "rarity": "Mythic",
+    "traits": {
+      "Headwear": "Gold Crown Band",
+      "Eyes": "Purple Tinted Glasses",
+      "Clothing": "Varsity Jacket",
+      "Accessory": "Cyber Horns",
+      "Expression": "Listening"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0046",
+    "name": "Rare Person #0046 — Retro Gamer",
+    "short": "Retro Gamer",
+    "image": "/assets/nfts/14.svg",
+    "rarity": "Common",
+    "traits": {
+      "Headwear": "Tactical Balaclava",
+      "Eyes": "Glowing Green XX Visor",
+      "Clothing": "Dark Tech Hoodie",
+      "Accessory": "Black Mask & Gold Earring",
+      "Expression": "Unfazed"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0047",
+    "name": "Rare Person #0047 — Terminal Operator",
+    "short": "Terminal Operator",
+    "image": "/assets/nfts/15.svg",
+    "rarity": "Common",
+    "traits": {
+      "Headwear": "Bandana",
+      "Eyes": "Golden Pupils",
+      "Clothing": "Deep Purple Hoodie",
+      "Accessory": "Cyan Over-Ear Headphones",
+      "Expression": "Mysterious"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0048",
+    "name": "Rare Person #0048 — Plasma Ranger",
+    "short": "Plasma Ranger",
+    "image": "/assets/nfts/16.svg",
+    "rarity": "Rare",
+    "traits": {
+      "Headwear": "Hologram Visor",
+      "Eyes": "Pixel Brown",
+      "Clothing": "Black Tech Hoodie",
+      "Accessory": "Silver Chain",
+      "Expression": "Smirking"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0049",
+    "name": "Rare Person #0049 — Echo Scout",
+    "short": "Echo Scout",
+    "image": "/assets/nfts/1.png",
+    "rarity": "Common",
+    "traits": {
+      "Headwear": "Black Snapback Cap",
+      "Eyes": "Dark Eyes",
+      "Clothing": "Cyber Armor Vest",
+      "Accessory": "Black Face Mask",
+      "Expression": "Stealth"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0050",
+    "name": "Rare Person #0050 — Rust Runner",
+    "short": "Rust Runner",
+    "image": "/assets/nfts/2.png",
+    "rarity": "Epic",
+    "traits": {
+      "Headwear": "Spiky Green Hair",
+      "Eyes": "Cyan HUD",
+      "Clothing": "Varsity Jacket",
+      "Accessory": "Cyber Horns",
+      "Expression": "Calm"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0051",
+    "name": "Rare Person #0051 — Laser Gaze",
+    "short": "Laser Gaze",
+    "image": "/assets/nfts/3.png",
+    "rarity": "Common",
+    "traits": {
+      "Headwear": "White Logo Bucket Hat",
+      "Eyes": "Focused Pixel",
+      "Clothing": "Dark Tech Hoodie",
+      "Accessory": "Black Mask & Gold Earring",
+      "Expression": "Hyper"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0052",
+    "name": "Rare Person #0052 — Cryptic Cipher",
+    "short": "Cryptic Cipher",
+    "image": "/assets/nfts/6.png",
+    "rarity": "Rare",
+    "traits": {
+      "Headwear": "Crimson Red Hood",
+      "Eyes": "White Face Plate",
+      "Clothing": "Deep Purple Hoodie",
+      "Accessory": "Cyan Over-Ear Headphones",
+      "Expression": "Hollow"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0053",
+    "name": "Rare Person #0053 — Warp Pilot",
+    "short": "Warp Pilot",
+    "image": "/assets/nfts/7.png",
+    "rarity": "Mythic",
+    "traits": {
+      "Headwear": "Spiky Blue Hair",
+      "Eyes": "Red Laser Scanner",
+      "Clothing": "Black Tech Hoodie",
+      "Accessory": "Silver Chain",
+      "Expression": "Focused"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0054",
+    "name": "Rare Person #0054 — Titanium Core",
+    "short": "Titanium Core",
+    "image": "/assets/nfts/8.png",
+    "rarity": "Legendary",
+    "traits": {
+      "Headwear": "Spiky Black Hair",
+      "Eyes": "Mono Lens",
+      "Clothing": "Cyber Armor Vest",
+      "Accessory": "Black Face Mask",
+      "Expression": "Determined"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0055",
+    "name": "Rare Person #0055 — Void Stalker",
+    "short": "Void Stalker",
+    "image": "/assets/nfts/86.png",
+    "rarity": "Common",
+    "traits": {
+      "Headwear": "Cyber Horns Helmet",
+      "Eyes": "Purple Tinted Glasses",
+      "Clothing": "Varsity Jacket",
+      "Accessory": "Cyber Horns",
+      "Expression": "Cybernetic"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0056",
+    "name": "Rare Person #0056 — Apex Glitch",
+    "short": "Apex Glitch",
+    "image": "/assets/nfts/87.png",
+    "rarity": "Epic",
+    "traits": {
+      "Headwear": "Neon Headband",
+      "Eyes": "Glowing Green XX Visor",
+      "Clothing": "Dark Tech Hoodie",
+      "Accessory": "Black Mask & Gold Earring",
+      "Expression": "Stoic"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0057",
+    "name": "Rare Person #0057 — Pulse Striker",
+    "short": "Pulse Striker",
+    "image": "/assets/nfts/88.png",
+    "rarity": "Rare",
+    "traits": {
+      "Headwear": "Gold Crown Band",
+      "Eyes": "Golden Pupils",
+      "Clothing": "Deep Purple Hoodie",
+      "Accessory": "Cyan Over-Ear Headphones",
+      "Expression": "Listening"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0058",
+    "name": "Rare Person #0058 — Nano Rogue",
+    "short": "Nano Rogue",
+    "image": "/assets/nfts/89.png",
+    "rarity": "Common",
+    "traits": {
+      "Headwear": "Tactical Balaclava",
+      "Eyes": "Pixel Brown",
+      "Clothing": "Black Tech Hoodie",
+      "Accessory": "Silver Chain",
+      "Expression": "Unfazed"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0059",
+    "name": "Rare Person #0059 — Arcane Byte",
+    "short": "Arcane Byte",
+    "image": "/assets/nfts/90.png",
+    "rarity": "Legendary",
+    "traits": {
+      "Headwear": "Bandana",
+      "Eyes": "Dark Eyes",
+      "Clothing": "Cyber Armor Vest",
+      "Accessory": "Black Face Mask",
+      "Expression": "Mysterious"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0060",
+    "name": "Rare Person #0060 — Synthetic Soul",
+    "short": "Synthetic Soul",
+    "image": "/assets/nfts/91.png",
+    "rarity": "Mythic",
+    "traits": {
+      "Headwear": "Hologram Visor",
+      "Eyes": "Cyan HUD",
+      "Clothing": "Varsity Jacket",
+      "Accessory": "Cyber Horns",
+      "Expression": "Smirking"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0061",
+    "name": "Rare Person #0061 — Carbon Striker",
+    "short": "Carbon Striker",
+    "image": "/assets/nfts/92.png",
+    "rarity": "Common",
+    "traits": {
+      "Headwear": "Black Snapback Cap",
+      "Eyes": "Focused Pixel",
+      "Clothing": "Dark Tech Hoodie",
+      "Accessory": "Black Mask & Gold Earring",
+      "Expression": "Stealth"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0062",
+    "name": "Rare Person #0062 — Acid Spikes",
+    "short": "Acid Spikes",
+    "image": "/assets/nfts/93.png",
+    "rarity": "Common",
+    "traits": {
+      "Headwear": "Spiky Green Hair",
+      "Eyes": "White Face Plate",
+      "Clothing": "Deep Purple Hoodie",
+      "Accessory": "Cyan Over-Ear Headphones",
+      "Expression": "Calm"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0063",
+    "name": "Rare Person #0063 — Neon Ghoul",
+    "short": "Neon Ghoul",
+    "image": "/assets/nfts/94.png",
+    "rarity": "Rare",
+    "traits": {
+      "Headwear": "White Logo Bucket Hat",
+      "Eyes": "Red Laser Scanner",
+      "Clothing": "Black Tech Hoodie",
+      "Accessory": "Silver Chain",
+      "Expression": "Hyper"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0064",
+    "name": "Rare Person #0064 — Overclock Beast",
+    "short": "Overclock Beast",
+    "image": "/assets/nfts/95.png",
+    "rarity": "Common",
+    "traits": {
+      "Headwear": "Crimson Red Hood",
+      "Eyes": "Mono Lens",
+      "Clothing": "Cyber Armor Vest",
+      "Accessory": "Black Face Mask",
+      "Expression": "Hollow"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0065",
+    "name": "Rare Person #0065 — Data Prophet",
+    "short": "Data Prophet",
+    "image": "/assets/nfts/1.svg",
+    "rarity": "Epic",
+    "traits": {
+      "Headwear": "Spiky Blue Hair",
+      "Eyes": "Purple Tinted Glasses",
+      "Clothing": "Varsity Jacket",
+      "Accessory": "Cyber Horns",
+      "Expression": "Focused"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0066",
+    "name": "Rare Person #0066 — Silent Operative",
+    "short": "Silent Operative",
+    "image": "/assets/nfts/2.svg",
+    "rarity": "Common",
+    "traits": {
+      "Headwear": "Spiky Black Hair",
+      "Eyes": "Glowing Green XX Visor",
+      "Clothing": "Dark Tech Hoodie",
+      "Accessory": "Black Mask & Gold Earring",
+      "Expression": "Determined"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0067",
+    "name": "Rare Person #0067 — Flux Raider",
+    "short": "Flux Raider",
+    "image": "/assets/nfts/3.svg",
+    "rarity": "Rare",
+    "traits": {
+      "Headwear": "Cyber Horns Helmet",
+      "Eyes": "Golden Pupils",
+      "Clothing": "Deep Purple Hoodie",
+      "Accessory": "Cyan Over-Ear Headphones",
+      "Expression": "Cybernetic"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0068",
+    "name": "Rare Person #0068 — Gravity Defier",
+    "short": "Gravity Defier",
+    "image": "/assets/nfts/4.svg",
+    "rarity": "Mythic",
+    "traits": {
+      "Headwear": "Neon Headband",
+      "Eyes": "Pixel Brown",
+      "Clothing": "Black Tech Hoodie",
+      "Accessory": "Silver Chain",
+      "Expression": "Stoic"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0069",
+    "name": "Rare Person #0069 — Cosmic Sentinel",
+    "short": "Cosmic Sentinel",
+    "image": "/assets/nfts/5.svg",
+    "rarity": "Legendary",
+    "traits": {
+      "Headwear": "Gold Crown Band",
+      "Eyes": "Dark Eyes",
+      "Clothing": "Cyber Armor Vest",
+      "Accessory": "Black Face Mask",
+      "Expression": "Listening"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0070",
+    "name": "Rare Person #0070 — Pixel Warlord",
+    "short": "Pixel Warlord",
+    "image": "/assets/nfts/6.svg",
+    "rarity": "Common",
+    "traits": {
+      "Headwear": "Tactical Balaclava",
+      "Eyes": "Cyan HUD",
+      "Clothing": "Varsity Jacket",
+      "Accessory": "Cyber Horns",
+      "Expression": "Unfazed"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0071",
+    "name": "Rare Person #0071 — Infinite Loop",
+    "short": "Infinite Loop",
+    "image": "/assets/nfts/7.svg",
+    "rarity": "Epic",
+    "traits": {
+      "Headwear": "Bandana",
+      "Eyes": "Focused Pixel",
+      "Clothing": "Dark Tech Hoodie",
+      "Accessory": "Black Mask & Gold Earring",
+      "Expression": "Mysterious"
+    },
+    "background": "Clean White"
+  },
+  {
+    "id": "0072",
+    "name": "Rare Person #0072 — Arc Sovereign",
+    "short": "Arc Sovereign",
+    "image": "/assets/nfts/8.svg",
+    "rarity": "Rare",
+    "traits": {
+      "Headwear": "Hologram Visor",
+      "Eyes": "White Face Plate",
+      "Clothing": "Deep Purple Hoodie",
+      "Accessory": "Cyan Over-Ear Headphones",
+      "Expression": "Smirking"
+    },
+    "background": "Clean White"
+  }
+]
